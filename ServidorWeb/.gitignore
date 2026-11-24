@@ -1,0 +1,8 @@
+iee.txt
+flota_config.json
+.vscode/
+__pycache__/
+# Ignorar archivos ejecutables y compilaciones
+build/
+dist/
+*.exe
